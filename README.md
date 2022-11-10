@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 --->
 
-[![CV Amallyn](../latexcv/docs/media/infographics2_en.png)](../latexcv/infographics2/en/main.pdf)
+[![CV Amallyn](https://github.com/Amallyn/latexcv/docs/media/infographics2_en.png)](https://github.com/Amallyn/latexcv/infographics2/en/main.pdf)
 
 <!---
 Amallyn/Amallyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
