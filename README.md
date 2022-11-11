@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Amallyn
 - 👀 I’m interested in devops, blockchain, data visualization, ansible, k8s, rust, new technologies
+- 🌱 I’m currently learning kubernetes and getting back to speed on Docker among a few others
 - 💞️ I’m looking to collaborate on devops and blockchain projects
 <!--- - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
