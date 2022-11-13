@@ -7,7 +7,7 @@
 - 📫 How to reach me ...
 --->
 
-[![CV Amallyn](https://raw.githubusercontent.com/Amallyn/latexcv/master/docs/media/CV_en_Boris_TRAN_infographics2.png)](https://raw.githubusercontent.com/Amallyn/latexcv/master/infographics2/en/CV_en_Boris_TRAN_infographics2.pdf)
+[![CV Amallyn](https://raw.githubusercontent.com/Amallyn/latexcv/master/docs/media/CV_en_Boris_TRAN_infographics2.png)](https://drive.google.com/drive/folders/1sbnU6meyvMiT61W4S-4BwnZ5JY6qL4yV?usp=sharing)
 
 <!---
 Amallyn/Amallyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
