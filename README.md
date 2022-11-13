@@ -2,6 +2,7 @@
 - 👀 I’m interested in devops, blockchain, data visualization, ansible, k8s, rust, new technologies
 - 🌱 I’m currently learning kubernetes and getting back to speed on Docker among others
 - 💞️ I’m looking to collaborate on devops and blockchain projects
+- 👀 Check my [CV](https://raw.githubusercontent.com/Amallyn/CV-Latex-Template/master/CV_en_Boris_TRAN.pdf)!
 <!--- - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
 --->
