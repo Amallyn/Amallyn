@@ -46,7 +46,7 @@
     - [x] Read the book!
     - [x] Sample programs
     - [ ] Polkadot parachain
-    - [ ] Solana smart contract
+    - [ ] Solana programs
   - Cairo (Starknet)
     - [ ] Tutorials
     - [ ] Workshop
