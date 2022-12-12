@@ -18,7 +18,7 @@
   - Solidity
     - [x] Remix
     - [x] Solidity Tutorial
-    - [ ] Solidity Functions
+    - [x] Solidity Functions
     - [ ] Solidity Common Patterns
     - [ ] Solidity Advanced
     - [x] Remix
