@@ -44,7 +44,7 @@
       - [ ] ...
   - Rust
     - [x] Read the book!
-    - [x] Sample program
+    - [x] Sample programs
     - [ ] Polkadot parachain
     - [ ] Solana smart contract
   - Cairo (Starknet)
