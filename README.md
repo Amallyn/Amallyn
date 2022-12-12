@@ -30,8 +30,8 @@
     - [x] Metamask
     - [x] Faucets
       - [x] Moonbase alpha
-        - [x]  https://apps.moonbeam.network/moonbase-alpha/faucet/
-        - [x]  https://web.getlaika.app/faucets
+        - [x] https://apps.moonbeam.network/moonbase-alpha/faucet/
+        - [x] https://web.getlaika.app/faucets
       - [x] Goerli
         - [x] https://goerlifaucet.com/
         - [x] https://faucets.chain.link/
@@ -44,6 +44,7 @@
       - [ ] ...
   - Rust
     - [x] Read the book!
+    - [x] Sample program
     - [ ] Polkadot parachain
     - [ ] Solana smart contract
   - Cairo (Starknet)
