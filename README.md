@@ -32,9 +32,9 @@
       - [x] Moonbase alpha
         - [x]  https://apps.moonbeam.network/moonbase-alpha/faucet/
         - [x]  https://web.getlaika.app/faucets
-      - [x]Goerli
-        - [x]https://goerlifaucet.com/
-        - [x]https://faucets.chain.link/
+      - [x] Goerli
+        - [x] https://goerlifaucet.com/
+        - [x] https://faucets.chain.link/
   - Tokens
     - [x] ERC721
     - [ ] ERC1165
@@ -47,7 +47,8 @@
     - [ ] Polkadot parachain
     - [ ] Solana smart contract
   - Cairo (Starknet)
-    - [ ]
+    - [ ] Tutorials
+    - [ ] Workshop
   - IPFS
     - [ ] own IPFS infrastructure
     - [ ] Pinata infrastrucure
